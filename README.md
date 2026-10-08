@@ -6,6 +6,8 @@ It guides an AI assistant to produce a structured 15-section evaluation card: wh
 
 ## Use it
 
+Open [Tool Evaluator Agent in ChatGPT](https://chatgpt.com/plugins/plugin_54500a323f148191af4c600ddae1d8b3?open_in_app).
+
 Copy [the Traditional Chinese instructions](INSTRUCTIONS.zh-Hant.md) into an AI assistant that supports custom instructions, then provide the tool name, users, frequency, costs, expected lifespan, and one or two intended uses. The instructions retain some Cantonese phrasing.
 
 Missing information should be marked **Unknown** or presented as a justified range. Estimates use conservative values: lower benefits and higher costs, with numbered assumptions, currencies, units, and formulas.
@@ -16,7 +18,7 @@ Suggested requests:
 - 「評估：新 CRM，含替代方案與 Stop Rule」
 - 「評估：報銷流程自動化工具，估算 breakeven」
 
-These are starter prompts, not measured demonstrations. No public hosted-agent link is included.
+These are starter prompts, not measured demonstrations.
 
 ## What makes it useful
 
