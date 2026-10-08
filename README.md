@@ -24,7 +24,7 @@ These are starter prompts, not measured demonstrations.
 
 Read [the OpenAI Codex evaluation card](examples/openai-codex.zh-Hant.md) for a complete Traditional Chinese example with all 15 sections, exactly two use cases, alternatives, governance, numbered assumptions, and conservative cost calculations.
 
-The example is dated **2026-10-07**. It uses an illustrative single-user scenario, not measured productivity results: conservative annualized cost is **USD 2,080**, estimated annual time value is **USD 960**, and estimated annual net value is **−USD 1,120**. At the assumed value rate, the break-even threshold is about **2.17 hours saved per week** over 48 working weeks. Check current product terms and replace the assumptions with your own recorded costs and outcomes before deciding to adopt or renew.
+The example is dated **2026-10-07**. It uses an illustrative single-user scenario, not measured productivity results. On the specification's conservative rule (low-end value, high-end cost), annualized cost is **USD 2,080**, annual time value is **USD 960**, and net value is **−USD 1,120**. This is a conservative floor, not a forecast: it combines the lowest value with the highest cost, and it values an hour at USD 20 when saved but costs it at USD 40 when spent. Across the example's own assumption ranges, annual net value runs from **−USD 1,120** (floor) through **+USD 1,650** (every assumption at its midpoint) to **+USD 5,140** (ceiling). At the floor, the break-even threshold is about **2.17 hours saved per week** over 48 working weeks; at the midpoint it is about 0.85. Check current product terms and replace the assumptions with your own recorded costs and outcomes before deciding to adopt or renew.
 
 ## What makes it useful
 
