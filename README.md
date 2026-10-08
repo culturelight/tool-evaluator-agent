@@ -20,6 +20,12 @@ Suggested requests:
 
 These are starter prompts, not measured demonstrations.
 
+## Worked example
+
+Read [the OpenAI Codex evaluation card](examples/openai-codex.zh-Hant.md) for a complete Traditional Chinese example with all 15 sections, exactly two use cases, alternatives, governance, numbered assumptions, and conservative cost calculations.
+
+The example is dated **2026-10-07**. It uses an illustrative single-user scenario, not measured productivity results: conservative annualized cost is **USD 2,080**, estimated annual time value is **USD 960**, and estimated annual net value is **−USD 1,120**. At the assumed value rate, the break-even threshold is about **2.17 hours saved per week** over 48 working weeks. Check current product terms and replace the assumptions with your own recorded costs and outcomes before deciding to adopt or renew.
+
 ## What makes it useful
 
 - Exactly two use cases, with human judgment and verification points.
@@ -40,6 +46,8 @@ The original 15-section specification is preserved. Its annual net-value compari
 用一張工具評估卡，檢視工具的用途、成本、效益、核驗方式、治理責任與停用條件。資料不足時列明 Unknown 或假設區間；比較替代方案時，必須包括「無此工具」的做法。
 
 核心理念：工具可以不達到損益平衡，但不應把判斷權交給工具。
+
+完整示例：[OpenAI Codex 工具評估卡](examples/openai-codex.zh-Hant.md)。示例包含來源、成本公式與假設清單；估算不代表實測成效。
 
 ## Copyright
 
